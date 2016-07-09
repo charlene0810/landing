@@ -1,0 +1,99 @@
+h1{
+	color: white; 
+	font-size: 80px;
+	font-family: 'Satisfy', cursive;
+}
+
+h2{
+	color:#736F72;
+	font-size: 40px;
+	color: #3A3E3B;
+	text-align: center;
+}
+
+body{
+	background-color: #F7EDF0;
+	color: #6F5E76;
+	font-family:"Avenir", "Helvetica", "sans-serif";
+	font-size: 16px;
+}
+
+p{
+font-size: 16px;
+color:#B2B2B2;
+}
+
+a{ 
+	color:#C60F7B ;
+ }
+
+ a:hover{
+ 	color:#9A8F97;
+ }
+
+.img-border{
+	width: 70px;
+	border: 1px solid black;
+}
+
+.img-round{
+	border: 1px solid black;
+	border-radius: 50%;
+	width: 70px;
+}
+
+#header{
+	padding-top: 150px;
+	padding-bottom: 150px;
+	background-image: url('image/banner.jpg');
+	background-size: cover;
+	background-position: center;
+}
+
+#header a {
+	color: white;
+	font-size: 24px;
+}
+
+#footer {
+	padding-top: 80px;
+	padding-bottom: 80px;
+	background-color: #736F72;
+	color: white;
+	font-size: 20px;
+}
+
+.team {
+	background-color: white;
+}
+
+.service img{
+	border: 1px solid yellow;
+	border-radius: 50%;
+	padding: 20px;
+
+}
+
+.btn-danger{
+	background-color: #B2FF9E;
+	border: none;
+	border-radius: 4px;
+	width:140px;
+
+}
+
+.btn-primary{
+	background-color: #E9EB9E;
+	border: none;
+	border-radius: 4px;
+	margin-left: 20px;
+	width:140px;
+}
+
+.pink-hover:hover{
+background-color: #E20D79;
+}
+
+.green-hover:hover{
+background-color: #E20D79;
+}
